@@ -10,6 +10,9 @@ We introduce KoLa, a lightweight, modular pipeline designed to translate Korean 
 ![KoLa Model Architecture](src/model_fig.jpg)
 
 Kim Min Jun: build, train, test KoLa model pipeline code
+
 Jeon Hye Seo: data generation, data pre-/post-processing, evaluation on other LLM models
+
 Kim Tae Kwan : build, train, test KoLa model pipeline code
+
 Yoon Seung Hyeon : data generation, data pre-/post-processing
