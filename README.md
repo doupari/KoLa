@@ -1,6 +1,7 @@
 # KoLa: Korean speech to Latex extraction Using small LM Modules
 
-[COSE461] 2025-1 Korea Univeristy NLP Project //
+[COSE461] 2025-1 Korea Univeristy NLP Project
+
 This is an course term project in [COSE451] Natural Language Processing (Pf. Byungjun Lee)
 
 ## Abstract
